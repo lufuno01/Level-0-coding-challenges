@@ -21,4 +21,4 @@ def convert(number):
     
   return str(hours)  + string_hours
 
-print(convert())
+print(convert(71))

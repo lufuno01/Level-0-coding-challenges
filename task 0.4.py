@@ -9,4 +9,4 @@ def evenOrOdd(number):
 
      print (number, " is odd") 
   
-evenOrOdd()
+evenOrOdd(2)

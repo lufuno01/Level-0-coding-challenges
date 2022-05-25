@@ -3,4 +3,4 @@ def checking_vowels(word):
      if vowel in 'aeiou':
       print( vowel)
         
-print(checking_vowels())  
+print(checking_vowels("Umuzi"))  
